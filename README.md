@@ -30,7 +30,7 @@ Run  <code>npm install</code> in the root directory and as well as in client dir
 To run both the servers simultaneously run <code>npm run dev</code>
 <pre>
 <code>
-  cd EAD_Grp_23
+  cd TOWARDS-AI
   npm install
   cd client
   npm install
